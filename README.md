@@ -26,3 +26,11 @@ Meeting Scheduler: Requests and Responses
    * Create User : Requests  -> First Name , Last Name , Email , Password
                    Responses -> Message , Summary
 
+   * Get List of all Meetings :  Requests  -> (no data)
+                                 Responses -> Meetings Info, Links to invidual Meetings
+
+   * Get Data about individual Meeting : Requests  -> Meeting ID
+                                         Responses -> Meeting Info , Link to  List of Meeetings
+
+
+Http Methods : GET , POST , PUT , PATCH , DELETE
