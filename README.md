@@ -34,3 +34,13 @@ Meeting Scheduler: Requests and Responses
 
 
 Http Methods : GET , POST , PUT , PATCH , DELETE
+
+Sensible Api Endpoints
+   
+      : POST   -> Create Meeting
+               -> Register for Meeting
+
+      : PUT    -> Update Meeting
+ 
+      : DELETE -> Unregister from Meeting
+               -> Delete Meeting
